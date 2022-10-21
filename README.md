@@ -1,6 +1,6 @@
 # PAGE
 
-This is the official repository for "PAGE: Prototype-based model-level explanations for graph neural networks" by Yong-Min Shin, Sun-Woo Kim, Won-Yong Shin. This contains the source code of PAGE with a jupyter notebook that produces the model-level explanations for BA-house dataset. For more details, please check the contents of the paper.
+This is the official repository for "PAGE: Prototype-based model-level explanations for graph neural networks" by Yong-Min Shin, Sun-Woo Kim, Won-Yong Shin. This contains the source code of PAGE. For more details, please check the contents of the paper.
 
 ### Requirements
 The recommended version specifications for the package versions are as follows:
@@ -12,3 +12,5 @@ The recommended version specifications for the package versions are as follows:
 - Numpy: 1.21.2
 - Scikit-learn: 1.0.2
 - Matplotlib: 3.5.1
+
+The repository also contains a jupyter notebook with an example code that produces model-level explanations for the BA-house dataset.
